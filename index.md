@@ -1,10 +1,10 @@
 ---
 layout: home
-title: Simsip
+title: Bill McRoberts
 home: true
 ---
 
-# Dependency Service for In-App Purchases
+# Dependency Service for Carrier In-App Purchases (Fortumo)
 
 
 ### ([https://github.com/simsip-admin/InApp/](https://github.com/simsip-admin/InApp "Dependency Service for In-App Purchases"))
