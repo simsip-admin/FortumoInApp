@@ -5,7 +5,8 @@ home: true
 ---
 
 # Dependency Service for Carrier In-App Purchases (Fortumo)
-<b> GitHub Repository:</b> <a href="https://github.com/simsip-admin/InApp/">https://github.com/simsip-admin/InApp/</a>
+
+<b><a href="https://github.com/simsip-admin/InApp/">https://github.com/simsip-admin/InApp/</a></b>
 
 Carrier based billing
 
