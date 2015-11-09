@@ -1,2 +1,2 @@
-# FortumoInApp
-Carrier in-app billing for Fortumo
+# InApp
+DependencyService for Xamarin In-app purchasing
