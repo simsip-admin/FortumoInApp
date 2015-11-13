@@ -6,9 +6,9 @@ home: true
 
 ## Dependency Service for Carrier In-App Purchases (Fortumo)
 
-Android Services &bull; Binding a Java Library &bull; Xamarin Forms &bull; DependencyService &bull; In-App Purchases &bull; Carrier Billing
+Android Services &bull; Binding a Java Library &bull; Xamarin.Forms &bull; DependencyService &bull; In-App Purchases &bull; Carrier Billing
 
-Xamarin Forms support for cross-platform in-app purchasing via Fortumo for carrier billing.
+Xamarin.Forms support for cross-platform in-app purchasing via Fortumo for carrier billing.
 
 <img src="images/screenshot-android-inapp.png" width="40%">
 
